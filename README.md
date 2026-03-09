@@ -111,24 +111,22 @@ The assistant returns the final list of matching properties through the webhook 
 
 ### Property Assistant Workflow
 
+<img width="1231" height="414" alt="AI property agent1" src="https://github.com/user-attachments/assets/551408cd-abcc-4391-815f-75d49b2bca47" />
 
-![Workflow Demo](<img width="1231" height="414" alt="AI property agent1" src="https://github.com/user-attachments/assets/8ce41a1e-3961-4a5e-9094-75f9f9948416" />
-)
 
 ---
 
 ### Database Property Search
 
-![Database Search](<img width="1348" height="605" alt="db" src="https://github.com/user-attachments/assets/268c28cf-a8c6-4b93-a46d-e2d160df9df7" />
-)
+<img width="1348" height="605" alt="db" src="https://github.com/user-attachments/assets/268c28cf-a8c6-4b93-a46d-e2d160df9df7" />
+
 
 ---
 
 ### Final API Response
 
+<img width="1283" height="443" alt="Screenshot 2026-03-01 021107" src="https://github.com/user-attachments/assets/018e4108-049c-4383-8403-3b2a648f6757" />
 
-![Final Response](<img width="1283" height="443" alt="Screenshot 2026-03-01 021107" src="https://github.com/user-attachments/assets/018e4108-049c-4383-8403-3b2a648f6757" />
-)
 
 ---
 
